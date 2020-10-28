@@ -1,1 +1,2 @@
-# my-own-game-stage-3.5-all-finished
+# p5.play-boilerplate
+Boiler plate for p5.play
